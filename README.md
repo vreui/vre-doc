@@ -33,7 +33,7 @@
 
   + 支持的 GNU/Linux 发行版本: Debian, ArchLinux
 
-  + 最低支持的 Windows 版本: Windows 7
+  + 最低支持的 Windows 版本: Windows 7 sp1 x64
 
 + Android
 
