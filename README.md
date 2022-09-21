@@ -3,6 +3,12 @@
 
 威惹界面 (vreui) 文档
 
+| 组件 | 状态 |
+| :--- | :--- |
+| [vre-ui](https://github.com/vreui/vre-ui) | [![CI](https://github.com/vreui/vre-ui/actions/workflows/ci.yml/badge.svg)](https://github.com/vreui/vre-ui/actions) |
+| [vre-core](https://github.com/vreui/vre-core) | [![CI](https://github.com/vreui/vre-core/actions/workflows/ci.yml/badge.svg)](https://github.com/vreui/vre-core/actions) |
+| [glw](https://github.com/vreui/glw) | [![CI](https://github.com/vreui/glw/actions/workflows/ci.yml/badge.svg)](https://github.com/vreui/glw/actions) |
+
 
 ## 设计文档
 
