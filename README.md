@@ -7,6 +7,8 @@
 | :--- | :--- |
 | [vre-ui](https://github.com/vreui/vre-ui) | [![CI](https://github.com/vreui/vre-ui/actions/workflows/ci.yml/badge.svg)](https://github.com/vreui/vre-ui/actions) |
 | [vre-core](https://github.com/vreui/vre-core) | [![CI](https://github.com/vreui/vre-core/actions/workflows/ci.yml/badge.svg)](https://github.com/vreui/vre-core/actions) |
+| [vre-dt](https://github.com/vreui/vre-dt) | [![CI](https://github.com/vreui/vre-dt/actions/workflows/ci.yml/badge.svg)](https://github.com/vreui/vre-dt/actions) |
+| [vre-apk](https://github.com/vreui/vre-dt) | [![CI](https://github.com/vreui/vre-apk/actions/workflows/ci.yml/badge.svg)](https://github.com/vreui/vre-apk/actions) |
 | [glw](https://github.com/vreui/glw) | [![CI](https://github.com/vreui/glw/actions/workflows/ci.yml/badge.svg)](https://github.com/vreui/glw/actions) |
 
 
